@@ -60,3 +60,9 @@ header p {
 .button:hover {
     background-color: #1a8cff;
 }
+
+footer {
+    text-align: center;
+    margin-top: 60px;
+    color: #777;
+}
