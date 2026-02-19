@@ -5,18 +5,21 @@ body {
 }
 
 nav {
-    margin-bottom: 30px;
+    background-color: #222;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 40px;
 }
 
 nav a {
-    margin-right: 20px;
+    color: white;
+    margin-right: 25px;
     text-decoration: none;
     font-weight: bold;
-    color: #333;
 }
 
 nav a:hover {
-    color: #0077cc;
+    color: #4da6ff;
 }
 
 h1 {
@@ -25,4 +28,14 @@ h1 {
 
 h2 {
     margin-top: 40px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header p {
+    font-size: 18px;
+    color: #555;
 }
